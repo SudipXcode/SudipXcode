@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sudip Joshi</h1>
-<h3 align="center">A passionate full-Stack developer from Nepal</h3>
+<h3 align="center">A passionate  QA Engineer & full-Stack developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipxcode&label=Profile%20views&color=0e75b6&style=flat" alt="sudipxcode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudipxcode" alt="sudipxcode" /></a> </p>
 
-- 🔭 I’m currently working on [Blog-app](https://github.com/SudipXcode/blogs-app)
-
-- 🌱 I’m currently learning **FastAPI**
-
-- 💬 Ask me about **Next.js Node-Express.js**
+- 💬 Ask me about **Next.js Node-Express.js FastAPI Python**
 
 - 📫 How to reach me **joshisudip1001@gmail.com**
 
