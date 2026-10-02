@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudipxcode" alt="sudipxcode" /></a> </p>
 
-- 💬**Next.js Node-Express.js FastAPI Python Springboot Java**
+- 💬**Next.js Node-Express.js GoLang**
 
-- 📫 How to reach me **joshisudip1001@gmail.com**
+- 📫 How to reach me **sudipjoshi007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
